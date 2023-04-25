@@ -4,3 +4,7 @@ git int komutunu projemize git ile iliskilendirmek icin sadece 1 kez kullaniriz
 yeni kodlar
 version1
 ------------------------------
+
+git commit -m ile bir mesajla birlikte commmit olsuturabiliriz.
+version2
+---------------
