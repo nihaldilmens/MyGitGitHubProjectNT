@@ -8,3 +8,7 @@ version1
 git commit -m ile bir mesajla birlikte commmit olsuturabiliriz.
 version2
 ---------------
+git commit -am"" : add+comiit birlikte kullaniriz
+ancak bu komut dosya icin en az bir kez git add kullanildiktan sonra calisir
+version3
+-------------------------
