@@ -1,0 +1,6 @@
+bir kisim kodlar yazdim
+oleyyy git ögreniyoruz
+git int komutunu projemize git ile iliskilendirmek icin sadece 1 kez kullaniriz
+yeni kodlar
+version1
+------------------------------
