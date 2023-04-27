@@ -12,3 +12,5 @@ git commit -am"" : add+comiit birlikte kullaniriz
 ancak bu komut dosya icin en az bir kez git add kullanildiktan sonra calisir
 version3
 -------------------------
+
+//remoteda degisiklik yaptim
